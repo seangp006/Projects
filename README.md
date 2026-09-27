@@ -29,4 +29,4 @@ Some of my projects include:
 
 ## Links
 
-[LinkedIn]([(https://www.linkedin.com/in/sean-garland-prouse-13949343a)])
+[LinkedIn]([https://www.linkedin.com/in/sean-garland-prouse-13949343a])
