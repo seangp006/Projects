@@ -15,8 +15,8 @@ at Maynooth University interested in software engineering and application develo
 ## Projects
 
 - **Neon Survivor** — 2D survival shooter built with Java Swing
-- **[Your Project]** — [short description]
-- **[Your Project]** — [short description]
+- **GameLink** — Collaborated as part of a development team to design the first draft of an app for gaming clips. (Maynooth Project Coursework)
+- **Websites** — Designed and built a functioning websites with front-end-to-backend integration, RESTful API design, SQL persistence using SQLite and end-to-end debugging with DevTools using VS Code. (HTML Project 1,3 and three are basic HTML with java and css) (BookApi and Music-App contain all technologies mentioned above) (Maynooth Project Coursework)
 
 ## Currently
 
